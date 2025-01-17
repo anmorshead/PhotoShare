@@ -11,7 +11,7 @@ namespace PhotoShare.Models
     
         public string Description { get;set; } = string.Empty;
         
-        [Display(Name = "Date Created")]
+        [Display(Name = "Date Created")] //set labels
         public DateTime CreatedAt { get; set; }
         
         [Display(Name = "Image Filename")]
