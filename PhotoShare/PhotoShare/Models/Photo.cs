@@ -9,9 +9,8 @@ namespace PhotoShare.Models
         public string Description { get;set; } = string.Empty;
         public string Location {  get; set; } = string.Empty;
         public string Camera {  get; set; } = string.Empty;
-        public string ImageFileName { get; set; } = string.Empty;
-        
         public string ImageFilename { get; set; } = string.Empty;
+        
 
         [Display(Name = "Visibility")]
         public bool IsVisible { get; set; } = false;

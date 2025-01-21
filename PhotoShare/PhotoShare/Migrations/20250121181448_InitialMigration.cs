@@ -15,15 +15,14 @@ namespace PhotoShare.Migrations
                 name: "Photo",
                 columns: table => new
                 {
-                    PhotoId = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    Description = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Location = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Camera = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    ImageFileName = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    ImageFilename = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    IsVisible = table.Column<bool>(type: "bit", nullable: false),
-                    CreatedAt = table.Column<DateTime>(type: "datetime2", nullable: false)
+                    PhotoId = table.Column<int>(type: "INTEGER", nullable: false)
+                        .Annotation("Sqlite:Autoincrement", true),
+                    Description = table.Column<string>(type: "TEXT", nullable: false),
+                    Location = table.Column<string>(type: "TEXT", nullable: false),
+                    Camera = table.Column<string>(type: "TEXT", nullable: false),
+                    ImageFilename = table.Column<string>(type: "TEXT", nullable: false),
+                    IsVisible = table.Column<bool>(type: "INTEGER", nullable: false),
+                    CreatedAt = table.Column<DateTime>(type: "TEXT", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -34,10 +33,10 @@ namespace PhotoShare.Migrations
                 name: "Tag",
                 columns: table => new
                 {
-                    TagId = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    PhotoId = table.Column<int>(type: "int", nullable: false)
+                    TagId = table.Column<int>(type: "INTEGER", nullable: false)
+                        .Annotation("Sqlite:Autoincrement", true),
+                    Name = table.Column<string>(type: "TEXT", nullable: false),
+                    PhotoId = table.Column<int>(type: "INTEGER", nullable: false)
                 },
                 constraints: table =>
                 {
