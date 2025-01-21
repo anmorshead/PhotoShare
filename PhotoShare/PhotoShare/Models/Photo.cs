@@ -6,20 +6,20 @@ namespace PhotoShare.Models
     {
         // Primary key
         public int PhotoId{ get; set; }
-    
-        public string Title { get;set; } = string.Empty;
-    
         public string Description { get;set; } = string.Empty;
+        public string Location {  get; set; } = string.Empty;
+        public string Camera {  get; set; } = string.Empty;
+        public string ImageFileName { get; set; } = string.Empty;
         
-        [Display(Name = "Date Created")] //set labels
-        public DateTime CreatedAt { get; set; }
-        
-        [Display(Name = "Image Filename")]
         public string ImageFilename { get; set; } = string.Empty;
-    
-        public bool IsPublic { get; set; } = false;
-        
+
+        [Display(Name = "Visibility")]
+        public bool IsVisible { get; set; } = false;
+
+        [Display(Name = "Date Created")] //set labels
+        public DateTime CreatedAt { get; set; } = DateTime.Now;
+
         //Navigation Property
-        public List<Photo>? Tags { get; set; } //nullable
+        public List<Tag>? Tags { get; set; } //nullable
     }
 }

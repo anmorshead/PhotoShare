@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|c:\\users\\andre\\onedrive\\desktop\\webapp\\photoshare\\photoshare\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|solutionrelative:photoshare\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|c:\\users\\andre\\onedrive\\desktop\\webapp\\photoshare\\photoshare\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|solutionrelative:photoshare\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|c:\\users\\andre\\onedrive\\desktop\\webapp\\photoshare\\photoshare\\views\\home\\photodetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|solutionrelative:photoshare\\views\\home\\photodetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|c:\\users\\andre\\onedrive\\desktop\\webapp\\photoshare\\photoshare\\models\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|solutionrelative:photoshare\\models\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|c:\\users\\andre\\onedrive\\desktop\\webapp\\photoshare\\photoshare\\migrations\\20250121035655_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|solutionrelative:photoshare\\migrations\\20250121035655_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250121035655_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Migrations\\20250121035655_InitialMigration.cs",
+              "RelativeDocumentMoniker": "PhotoShare\\Migrations\\20250121035655_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Migrations\\20250121035655_InitialMigration.cs",
+              "RelativeToolTip": "PhotoShare\\Migrations\\20250121035655_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T03:56:55.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PhotoShare\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PhotoShare\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T03:46:15.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PhotoShare\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PhotoShare\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T03:45:23.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhotoDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Views\\Home\\PhotoDetails.cshtml",
+              "RelativeDocumentMoniker": "PhotoShare\\Views\\Home\\PhotoDetails.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Views\\Home\\PhotoDetails.cshtml",
+              "RelativeToolTip": "PhotoShare\\Views\\Home\\PhotoDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T03:44:47.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Photo.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Models\\Photo.cs",
+              "RelativeDocumentMoniker": "PhotoShare\\Models\\Photo.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Models\\Photo.cs",
+              "RelativeToolTip": "PhotoShare\\Models\\Photo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T03:37:07.096Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

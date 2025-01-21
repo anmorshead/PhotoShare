@@ -24,30 +24,27 @@ public class HomeController : Controller
         Photo photo1 = new Photo()
         {
             PhotoId = 1,
-            Title = "my cat",
             Description = "This is my cat",
             ImageFilename = "cat.jpg",
             CreatedAt = DateTime.Now,
-            IsPublic = true
+            IsVisible = true
         };
 
         Photo photo2 = new Photo()
         {
             PhotoId = 2,
-            Title = "my dog",
             Description = "This is my dog",
             ImageFilename = "dog.jpg",
             CreatedAt = DateTime.Now,
-            IsPublic = true,
+            IsVisible = true,
         };
         Photo photo3 = new Photo()
         {
             PhotoId = 3,
-            Title = "my turtle",
             Description = "This is my turtle",
             ImageFilename = "turtle.jpg",
             CreatedAt = DateTime.Now,
-            IsPublic = true,
+            IsVisible = true,
         };
         //add them to the list
         photos.Add(photo1);
@@ -58,18 +55,17 @@ public class HomeController : Controller
         return View(photos);
     }
     //display a photo by id - ../Home/DisplayPhoto/id
-    public IActionResult DisplayPhoto(int id)
+    public IActionResult PhotoDetails(int id)
     {
         //entity framework: fetch the photo by id
         
         Photo photo = new Photo()
         {
             PhotoId = id,
-            Title = "Bird",
             Description = "This is my bird",
             ImageFilename = "bird.jpg",
             CreatedAt = DateTime.Now,
-            IsPublic = true
+            IsVisible = true
         };
         
         return View(photo);
