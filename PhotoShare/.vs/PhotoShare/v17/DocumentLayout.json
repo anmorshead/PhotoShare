@@ -46,8 +46,7 @@
               "RelativeToolTip": "PhotoShare\\Views\\Tags\\Create.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T23:17:18.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T23:17:18.995Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "PhotoShare\\Views\\Photos\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T23:14:22.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T23:14:22.525Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "PhotoShare\\Controllers\\TagsController.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAIwEAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T23:10:57.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T23:10:57.906Z"
             },
             {
               "$type": "Document",
@@ -85,8 +82,7 @@
               "RelativeToolTip": "PhotoShare\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T22:52:31.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T22:52:31.033Z"
             },
             {
               "$type": "Document",
@@ -98,8 +94,7 @@
               "RelativeToolTip": "PhotoShare\\Views\\Photos\\Edit.cshtml",
               "ViewState": "AgIAACoAAAAAAAAAAAAAADEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T22:51:44.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T22:51:44.861Z"
             },
             {
               "$type": "Document",
@@ -111,8 +106,7 @@
               "RelativeToolTip": "PhotoShare\\Controllers\\PhotosController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T22:48:23.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T22:48:23.165Z"
             }
           ]
         }
