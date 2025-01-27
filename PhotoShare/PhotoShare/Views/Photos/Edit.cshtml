@@ -4,9 +4,8 @@
     ViewData["Title"] = "Edit";
 }
 
-<h1>Edit</h1>
+<h1>Edit Photo</h1>
 
-<h4>Photo</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
@@ -46,8 +45,15 @@
             <div class="mb-3">
                 <input type="submit" value="Save" class="btn btn-primary" />
             </div>
-            <div>
-                <a asp-controller="Tags" asp-action="Create" asp-route-id="@Model.PhotoId" class="pe-2">Add new tag</a>
+            <div class="mb-3">
+                <a asp-controller="Tags" asp-action="Add Tag" asp-route-id="@Model.PhotoId" class="pe-2 btn btn-secondary">Add new tag</a>
+                @if (Model.Tags != null)
+                {
+                    foreach (var tag in Model.Tags)
+                    {
+                        <span class="pe-2">@tag.Name <a asp-controller="Tags" asp-action="Delete" asp-route-id="@tag.TagId">x</a> </span>
+                    }
+                }
             </div>
         </form>
     </div>

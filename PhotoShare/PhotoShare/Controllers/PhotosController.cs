@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
+using NuGet.Versioning;
 using PhotoShare.Data;
 using PhotoShare.Models;
 
@@ -72,8 +73,9 @@ namespace PhotoShare.Controllers
             {
                 return NotFound();
             }
+            //include navigation property to get tags list
+            var photo = await _context.Photo.Include(m => m.Tags).FirstOrDefaultAsync(m => m.PhotoId == id);
 
-            var photo = await _context.Photo.FindAsync(id);
             if (photo == null)
             {
                 return NotFound();

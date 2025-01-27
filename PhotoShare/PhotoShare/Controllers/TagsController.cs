@@ -18,32 +18,15 @@ namespace PhotoShare.Controllers
         {
             _context = context;
         }
+        //deleted the following actions:
 
         // GET: Tags
-        public async Task<IActionResult> Index()
-        {
-            var photoShareContext = _context.Tag.Include(t => t.Photo);
-            return View(await photoShareContext.ToListAsync());
-        }
-
         // GET: Tags/Details/5
-        public async Task<IActionResult> Details(int? id)
-        {
-            if (id == null)
-            {
-                return NotFound();
-            }
+        // GET: Tags/Edit/5
+        // POST: Tags/Edit/5
+        // POST: Tags/Delete/5
 
-            var tag = await _context.Tag
-                .Include(t => t.Photo)
-                .FirstOrDefaultAsync(m => m.TagId == id);
-            if (tag == null)
-            {
-                return NotFound();
-            }
 
-            return View(tag);
-        }
 
         // GET: Tags/Create
         public IActionResult Create(int? id)
@@ -77,92 +60,35 @@ namespace PhotoShare.Controllers
             return View(tag);
         }
 
-        // GET: Tags/Edit/5
-        public async Task<IActionResult> Edit(int? id)
-        {
-            if (id == null)
-            {
-                return NotFound();
-            }
-
-            var tag = await _context.Tag.FindAsync(id);
-            if (tag == null)
-            {
-                return NotFound();
-            }
-            ViewData["PhotoId"] = new SelectList(_context.Photo, "PhotoId", "PhotoId", tag.PhotoId);
-            return View(tag);
-        }
-
-        // POST: Tags/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("TagId,Name,PhotoId")] Tag tag)
-        {
-            if (id != tag.TagId)
-            {
-                return NotFound();
-            }
-
-            if (ModelState.IsValid)
-            {
-                try
-                {
-                    _context.Update(tag);
-                    await _context.SaveChangesAsync();
-                }
-                catch (DbUpdateConcurrencyException)
-                {
-                    if (!TagExists(tag.TagId))
-                    {
-                        return NotFound();
-                    }
-                    else
-                    {
-                        throw;
-                    }
-                }
-                return RedirectToAction(nameof(Index));
-            }
-            ViewData["PhotoId"] = new SelectList(_context.Photo, "PhotoId", "PhotoId", tag.PhotoId);
-            return View(tag);
-        }
 
         // GET: Tags/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
+            // id is the tag id
             if (id == null)
             {
                 return NotFound();
             }
 
-            var tag = await _context.Tag
-                .Include(t => t.Photo)
-                .FirstOrDefaultAsync(m => m.TagId == id);
+            var tag = await _context.Tag.FirstOrDefaultAsync(m => m.TagId == id);
+
             if (tag == null)
             {
                 return NotFound();
             }
 
-            return View(tag);
-        }
+            // set the photo id to pass to return to the Photo Details page
+            var photoId = tag.PhotoId;
 
-        // POST: Tags/Delete/5
-        [HttpPost, ActionName("Delete")]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(int id)
-        {
-            var tag = await _context.Tag.FindAsync(id);
-            if (tag != null)
-            {
-                _context.Tag.Remove(tag);
-            }
-
+            // Remove the tag
+            _context.Tag.Remove(tag);
             await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+
+            return RedirectToAction("Edit", "Photos", new { id = photoId });
         }
+
+
+
 
         private bool TagExists(int id)
         {
