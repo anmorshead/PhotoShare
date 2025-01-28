@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LY5sqLIBuNiY1GchwEknGjmp5q9MMGp4JtDM74wYaGs=",
+  "Hash": "p57vtcMp21pF2yKUMlXeLlhh+F6cFNc5RmfhDysLcWI=",
   "Source": "PhotoShare",
   "BasePath": "_content/PhotoShare",
   "Mode": "Default",
@@ -290,12 +290,12 @@
       "OriginalItemSpec": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\7y28bvh9p6-le3twtknm4.gz",
+      "Identity": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\7y28bvh9p6-bm9w7y3qwr.gz",
       "SourceId": "PhotoShare",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/PhotoShare",
-      "RelativePath": "PhotoShare#[.{fingerprint=le3twtknm4}]!.bundle.scp.css.gz",
+      "RelativePath": "PhotoShare#[.{fingerprint=bm9w7y3qwr}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -304,8 +304,8 @@
       "RelatedAsset": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PhotoShare.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "1p6pu4iafa",
-      "Integrity": "JfzR46MBNa85mlFTX7LsT+PO7u5XPojZ5mqz5txpJ0A=",
+      "Fingerprint": "mddct0e0i7",
+      "Integrity": "RhSfnuW8LpXEjuqRWYbP0kkPP3Z9mBEJOQBZ/T/2Y/Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PhotoShare.bundle.scp.css"
@@ -689,12 +689,12 @@
       "OriginalItemSpec": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
-      "Identity": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\g58tocj7nm-le3twtknm4.gz",
+      "Identity": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\g58tocj7nm-bm9w7y3qwr.gz",
       "SourceId": "PhotoShare",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/PhotoShare",
-      "RelativePath": "PhotoShare#[.{fingerprint=le3twtknm4}]?.styles.css.gz",
+      "RelativePath": "PhotoShare#[.{fingerprint=bm9w7y3qwr}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -703,19 +703,19 @@
       "RelatedAsset": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PhotoShare.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "1p6pu4iafa",
-      "Integrity": "JfzR46MBNa85mlFTX7LsT+PO7u5XPojZ5mqz5txpJ0A=",
+      "Fingerprint": "mddct0e0i7",
+      "Integrity": "RhSfnuW8LpXEjuqRWYbP0kkPP3Z9mBEJOQBZ/T/2Y/Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PhotoShare.styles.css"
     },
     {
-      "Identity": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\icar7cjwje-b9sayid5wm.gz",
+      "Identity": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\icar7cjwje-9z7ztphugi.gz",
       "SourceId": "PhotoShare",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/PhotoShare",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=9z7ztphugi}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -724,8 +724,8 @@
       "RelatedAsset": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wf4wcyqcqt",
-      "Integrity": "fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=",
+      "Fingerprint": "s127pagtvw",
+      "Integrity": "4JjiaJB8tHOoZCFgSen+XrvXZRqXYZC9kYvCi99N/gQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\css\\site.css"
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "le3twtknm4",
-      "Integrity": "g5XHJt3pqk3xkWVXtnbz7yKssVGcKtJVnUe4RPYC5LE=",
+      "Fingerprint": "bm9w7y3qwr",
+      "Integrity": "TSgg5IPd5Q+Cdel0Tq9QMX1jhtI2IhlvOPF1DJhciv8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PhotoShare.styles.css"
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "le3twtknm4",
-      "Integrity": "g5XHJt3pqk3xkWVXtnbz7yKssVGcKtJVnUe4RPYC5LE=",
+      "Fingerprint": "bm9w7y3qwr",
+      "Integrity": "TSgg5IPd5Q+Cdel0Tq9QMX1jhtI2IhlvOPF1DJhciv8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PhotoShare.bundle.scp.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "9z7ztphugi",
+      "Integrity": "JeQt82411D1S62vqQ4w93b30nu3SqGwNimD1tH4lakU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2724,17 +2724,59 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\photos\\73f69ad5-571e-419b-b5bf-a265efe4e5f9.jpg",
+      "SourceId": "PhotoShare",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\",
+      "BasePath": "_content/PhotoShare",
+      "RelativePath": "photos/73f69ad5-571e-419b-b5bf-a265efe4e5f9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "805ytz5291",
+      "Integrity": "KDmXCKY/9T2ZRrb/MOoV7puP/Bekqd+TYuq17N1A+ck=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\photos\\73f69ad5-571e-419b-b5bf-a265efe4e5f9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\photos\\fa194ff5-ad64-4815-a013-4499e2378bda.jpg",
+      "SourceId": "PhotoShare",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\",
+      "BasePath": "_content/PhotoShare",
+      "RelativePath": "photos/fa194ff5-ad64-4815-a013-4499e2378bda#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "warezy1bii",
+      "Integrity": "SOPU9KZDV8S9fp2OhmJ6ZauGoCDTJXHPyZUXcP1FKU4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\photos\\fa194ff5-ad64-4815-a013-4499e2378bda.jpg"
     }
   ],
   "Endpoints": [
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\icar7cjwje-b9sayid5wm.gz",
+      "Route": "css/site.9z7ztphugi.css",
+      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\icar7cjwje-9z7ztphugi.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003125000000"
+          "Quality": "0.002079002079"
         }
       ],
       "ResponseHeaders": [
@@ -2744,15 +2786,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "480"
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"4JjiaJB8tHOoZCFgSen+XrvXZRqXYZC9kYvCi99N/gQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 03:35:52 GMT"
+          "Value": "Tue, 28 Jan 2025 17:06:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,13 +2814,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"JeQt82411D1S62vqQ4w93b30nu3SqGwNimD1tH4lakU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "9z7ztphugi"
         },
         {
           "Name": "label",
@@ -2786,12 +2828,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-JeQt82411D1S62vqQ4w93b30nu3SqGwNimD1tH4lakU="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/site.9z7ztphugi.css",
       "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2801,7 +2843,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "1197"
         },
         {
           "Name": "Content-Type",
@@ -2809,11 +2851,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"JeQt82411D1S62vqQ4w93b30nu3SqGwNimD1tH4lakU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 03:35:52 GMT"
+          "Value": "Tue, 28 Jan 2025 17:06:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2823,7 +2865,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "9z7ztphugi"
         },
         {
           "Name": "label",
@@ -2831,13 +2873,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-JeQt82411D1S62vqQ4w93b30nu3SqGwNimD1tH4lakU="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\icar7cjwje-b9sayid5wm.gz",
+      "Route": "css/site.9z7ztphugi.css.gz",
+      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\icar7cjwje-9z7ztphugi.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2846,7 +2888,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "480"
         },
         {
           "Name": "Content-Type",
@@ -2854,11 +2896,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"4JjiaJB8tHOoZCFgSen+XrvXZRqXYZC9kYvCi99N/gQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 03:35:52 GMT"
+          "Value": "Tue, 28 Jan 2025 17:06:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2876,7 +2918,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "9z7ztphugi"
         },
         {
           "Name": "label",
@@ -2884,18 +2926,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
+          "Value": "sha256-4JjiaJB8tHOoZCFgSen+XrvXZRqXYZC9kYvCi99N/gQ="
         }
       ]
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\icar7cjwje-b9sayid5wm.gz",
+      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\icar7cjwje-9z7ztphugi.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003125000000"
+          "Quality": "0.002079002079"
         }
       ],
       "ResponseHeaders": [
@@ -2905,15 +2947,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "480"
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"4JjiaJB8tHOoZCFgSen+XrvXZRqXYZC9kYvCi99N/gQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 03:35:52 GMT"
+          "Value": "Tue, 28 Jan 2025 17:06:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2933,13 +2975,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"JeQt82411D1S62vqQ4w93b30nu3SqGwNimD1tH4lakU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-JeQt82411D1S62vqQ4w93b30nu3SqGwNimD1tH4lakU="
         }
       ]
     },
@@ -2954,7 +2996,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "1197"
         },
         {
           "Name": "Content-Type",
@@ -2962,11 +3004,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"JeQt82411D1S62vqQ4w93b30nu3SqGwNimD1tH4lakU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 03:35:52 GMT"
+          "Value": "Tue, 28 Jan 2025 17:06:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2976,13 +3018,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-JeQt82411D1S62vqQ4w93b30nu3SqGwNimD1tH4lakU="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\icar7cjwje-b9sayid5wm.gz",
+      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\icar7cjwje-9z7ztphugi.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2991,7 +3033,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "480"
         },
         {
           "Name": "Content-Type",
@@ -2999,11 +3041,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I=\""
+          "Value": "\"4JjiaJB8tHOoZCFgSen+XrvXZRqXYZC9kYvCi99N/gQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 03:35:52 GMT"
+          "Value": "Tue, 28 Jan 2025 17:06:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3021,7 +3063,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
+          "Value": "sha256-4JjiaJB8tHOoZCFgSen+XrvXZRqXYZC9kYvCi99N/gQ="
         }
       ]
     },
@@ -21286,8 +21328,172 @@
       ]
     },
     {
-      "Route": "PhotoShare.bundle.scp.css",
-      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\7y28bvh9p6-le3twtknm4.gz",
+      "Route": "photos/73f69ad5-571e-419b-b5bf-a265efe4e5f9.805ytz5291.jpg",
+      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\photos\\73f69ad5-571e-419b-b5bf-a265efe4e5f9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "143621"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KDmXCKY/9T2ZRrb/MOoV7puP/Bekqd+TYuq17N1A+ck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 21:59:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "805ytz5291"
+        },
+        {
+          "Name": "label",
+          "Value": "photos/73f69ad5-571e-419b-b5bf-a265efe4e5f9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KDmXCKY/9T2ZRrb/MOoV7puP/Bekqd+TYuq17N1A+ck="
+        }
+      ]
+    },
+    {
+      "Route": "photos/73f69ad5-571e-419b-b5bf-a265efe4e5f9.jpg",
+      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\photos\\73f69ad5-571e-419b-b5bf-a265efe4e5f9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "143621"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KDmXCKY/9T2ZRrb/MOoV7puP/Bekqd+TYuq17N1A+ck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 21:59:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KDmXCKY/9T2ZRrb/MOoV7puP/Bekqd+TYuq17N1A+ck="
+        }
+      ]
+    },
+    {
+      "Route": "photos/fa194ff5-ad64-4815-a013-4499e2378bda.jpg",
+      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\photos\\fa194ff5-ad64-4815-a013-4499e2378bda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "380850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SOPU9KZDV8S9fp2OhmJ6ZauGoCDTJXHPyZUXcP1FKU4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 22:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SOPU9KZDV8S9fp2OhmJ6ZauGoCDTJXHPyZUXcP1FKU4="
+        }
+      ]
+    },
+    {
+      "Route": "photos/fa194ff5-ad64-4815-a013-4499e2378bda.warezy1bii.jpg",
+      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\photos\\fa194ff5-ad64-4815-a013-4499e2378bda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "380850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SOPU9KZDV8S9fp2OhmJ6ZauGoCDTJXHPyZUXcP1FKU4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 22:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "warezy1bii"
+        },
+        {
+          "Name": "label",
+          "Value": "photos/fa194ff5-ad64-4815-a013-4499e2378bda.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SOPU9KZDV8S9fp2OhmJ6ZauGoCDTJXHPyZUXcP1FKU4="
+        }
+      ]
+    },
+    {
+      "Route": "PhotoShare.bm9w7y3qwr.bundle.scp.css",
+      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\7y28bvh9p6-bm9w7y3qwr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -21306,15 +21512,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JfzR46MBNa85mlFTX7LsT+PO7u5XPojZ5mqz5txpJ0A=\""
+          "Value": "\"RhSfnuW8LpXEjuqRWYbP0kkPP3Z9mBEJOQBZ/T/2Y/Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 03:35:52 GMT"
+          "Value": "Mon, 27 Jan 2025 21:56:55 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -21330,18 +21536,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"g5XHJt3pqk3xkWVXtnbz7yKssVGcKtJVnUe4RPYC5LE=\""
+          "Value": "W/\"TSgg5IPd5Q+Cdel0Tq9QMX1jhtI2IhlvOPF1DJhciv8=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "bm9w7y3qwr"
+        },
+        {
+          "Name": "label",
+          "Value": "PhotoShare.bundle.scp.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-g5XHJt3pqk3xkWVXtnbz7yKssVGcKtJVnUe4RPYC5LE="
+          "Value": "sha256-TSgg5IPd5Q+Cdel0Tq9QMX1jhtI2IhlvOPF1DJhciv8="
         }
       ]
     },
     {
-      "Route": "PhotoShare.bundle.scp.css",
+      "Route": "PhotoShare.bm9w7y3qwr.bundle.scp.css",
       "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PhotoShare.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21359,121 +21573,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"g5XHJt3pqk3xkWVXtnbz7yKssVGcKtJVnUe4RPYC5LE=\""
+          "Value": "\"TSgg5IPd5Q+Cdel0Tq9QMX1jhtI2IhlvOPF1DJhciv8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 03:35:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-g5XHJt3pqk3xkWVXtnbz7yKssVGcKtJVnUe4RPYC5LE="
-        }
-      ]
-    },
-    {
-      "Route": "PhotoShare.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\7y28bvh9p6-le3twtknm4.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "539"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"JfzR46MBNa85mlFTX7LsT+PO7u5XPojZ5mqz5txpJ0A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 03:35:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-JfzR46MBNa85mlFTX7LsT+PO7u5XPojZ5mqz5txpJ0A="
-        }
-      ]
-    },
-    {
-      "Route": "PhotoShare.le3twtknm4.bundle.scp.css",
-      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\7y28bvh9p6-le3twtknm4.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001851851852"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "539"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"JfzR46MBNa85mlFTX7LsT+PO7u5XPojZ5mqz5txpJ0A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 03:35:52 GMT"
+          "Value": "Mon, 27 Jan 2025 21:56:55 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"g5XHJt3pqk3xkWVXtnbz7yKssVGcKtJVnUe4RPYC5LE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "le3twtknm4"
+          "Value": "bm9w7y3qwr"
         },
         {
           "Name": "label",
@@ -21481,58 +21595,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-g5XHJt3pqk3xkWVXtnbz7yKssVGcKtJVnUe4RPYC5LE="
+          "Value": "sha256-TSgg5IPd5Q+Cdel0Tq9QMX1jhtI2IhlvOPF1DJhciv8="
         }
       ]
     },
     {
-      "Route": "PhotoShare.le3twtknm4.bundle.scp.css",
-      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PhotoShare.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1128"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"g5XHJt3pqk3xkWVXtnbz7yKssVGcKtJVnUe4RPYC5LE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 03:35:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "le3twtknm4"
-        },
-        {
-          "Name": "label",
-          "Value": "PhotoShare.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-g5XHJt3pqk3xkWVXtnbz7yKssVGcKtJVnUe4RPYC5LE="
-        }
-      ]
-    },
-    {
-      "Route": "PhotoShare.le3twtknm4.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\7y28bvh9p6-le3twtknm4.gz",
+      "Route": "PhotoShare.bm9w7y3qwr.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\7y28bvh9p6-bm9w7y3qwr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21549,11 +21618,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JfzR46MBNa85mlFTX7LsT+PO7u5XPojZ5mqz5txpJ0A=\""
+          "Value": "\"RhSfnuW8LpXEjuqRWYbP0kkPP3Z9mBEJOQBZ/T/2Y/Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 03:35:52 GMT"
+          "Value": "Mon, 27 Jan 2025 21:56:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21571,7 +21640,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "le3twtknm4"
+          "Value": "bm9w7y3qwr"
         },
         {
           "Name": "label",
@@ -21579,13 +21648,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JfzR46MBNa85mlFTX7LsT+PO7u5XPojZ5mqz5txpJ0A="
+          "Value": "sha256-RhSfnuW8LpXEjuqRWYbP0kkPP3Z9mBEJOQBZ/T/2Y/Y="
         }
       ]
     },
     {
-      "Route": "PhotoShare.le3twtknm4.styles.css",
-      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\g58tocj7nm-le3twtknm4.gz",
+      "Route": "PhotoShare.bm9w7y3qwr.styles.css",
+      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\g58tocj7nm-bm9w7y3qwr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -21604,11 +21673,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JfzR46MBNa85mlFTX7LsT+PO7u5XPojZ5mqz5txpJ0A=\""
+          "Value": "\"RhSfnuW8LpXEjuqRWYbP0kkPP3Z9mBEJOQBZ/T/2Y/Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 03:35:52 GMT"
+          "Value": "Mon, 27 Jan 2025 21:56:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21628,13 +21697,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"g5XHJt3pqk3xkWVXtnbz7yKssVGcKtJVnUe4RPYC5LE=\""
+          "Value": "W/\"TSgg5IPd5Q+Cdel0Tq9QMX1jhtI2IhlvOPF1DJhciv8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "le3twtknm4"
+          "Value": "bm9w7y3qwr"
         },
         {
           "Name": "label",
@@ -21642,12 +21711,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-g5XHJt3pqk3xkWVXtnbz7yKssVGcKtJVnUe4RPYC5LE="
+          "Value": "sha256-TSgg5IPd5Q+Cdel0Tq9QMX1jhtI2IhlvOPF1DJhciv8="
         }
       ]
     },
     {
-      "Route": "PhotoShare.le3twtknm4.styles.css",
+      "Route": "PhotoShare.bm9w7y3qwr.styles.css",
       "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PhotoShare.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21665,11 +21734,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"g5XHJt3pqk3xkWVXtnbz7yKssVGcKtJVnUe4RPYC5LE=\""
+          "Value": "\"TSgg5IPd5Q+Cdel0Tq9QMX1jhtI2IhlvOPF1DJhciv8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 03:35:52 GMT"
+          "Value": "Mon, 27 Jan 2025 21:56:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21679,7 +21748,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "le3twtknm4"
+          "Value": "bm9w7y3qwr"
         },
         {
           "Name": "label",
@@ -21687,13 +21756,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-g5XHJt3pqk3xkWVXtnbz7yKssVGcKtJVnUe4RPYC5LE="
+          "Value": "sha256-TSgg5IPd5Q+Cdel0Tq9QMX1jhtI2IhlvOPF1DJhciv8="
         }
       ]
     },
     {
-      "Route": "PhotoShare.le3twtknm4.styles.css.gz",
-      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\g58tocj7nm-le3twtknm4.gz",
+      "Route": "PhotoShare.bm9w7y3qwr.styles.css.gz",
+      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\g58tocj7nm-bm9w7y3qwr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21710,11 +21779,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JfzR46MBNa85mlFTX7LsT+PO7u5XPojZ5mqz5txpJ0A=\""
+          "Value": "\"RhSfnuW8LpXEjuqRWYbP0kkPP3Z9mBEJOQBZ/T/2Y/Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 03:35:52 GMT"
+          "Value": "Mon, 27 Jan 2025 21:56:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21732,7 +21801,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "le3twtknm4"
+          "Value": "bm9w7y3qwr"
         },
         {
           "Name": "label",
@@ -21740,13 +21809,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JfzR46MBNa85mlFTX7LsT+PO7u5XPojZ5mqz5txpJ0A="
+          "Value": "sha256-RhSfnuW8LpXEjuqRWYbP0kkPP3Z9mBEJOQBZ/T/2Y/Y="
         }
       ]
     },
     {
-      "Route": "PhotoShare.styles.css",
-      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\g58tocj7nm-le3twtknm4.gz",
+      "Route": "PhotoShare.bundle.scp.css",
+      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\7y28bvh9p6-bm9w7y3qwr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -21765,11 +21834,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JfzR46MBNa85mlFTX7LsT+PO7u5XPojZ5mqz5txpJ0A=\""
+          "Value": "\"RhSfnuW8LpXEjuqRWYbP0kkPP3Z9mBEJOQBZ/T/2Y/Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 03:35:52 GMT"
+          "Value": "Mon, 27 Jan 2025 21:56:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21789,13 +21858,150 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"g5XHJt3pqk3xkWVXtnbz7yKssVGcKtJVnUe4RPYC5LE=\""
+          "Value": "W/\"TSgg5IPd5Q+Cdel0Tq9QMX1jhtI2IhlvOPF1DJhciv8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-g5XHJt3pqk3xkWVXtnbz7yKssVGcKtJVnUe4RPYC5LE="
+          "Value": "sha256-TSgg5IPd5Q+Cdel0Tq9QMX1jhtI2IhlvOPF1DJhciv8="
+        }
+      ]
+    },
+    {
+      "Route": "PhotoShare.bundle.scp.css",
+      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PhotoShare.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TSgg5IPd5Q+Cdel0Tq9QMX1jhtI2IhlvOPF1DJhciv8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 21:56:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TSgg5IPd5Q+Cdel0Tq9QMX1jhtI2IhlvOPF1DJhciv8="
+        }
+      ]
+    },
+    {
+      "Route": "PhotoShare.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\7y28bvh9p6-bm9w7y3qwr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RhSfnuW8LpXEjuqRWYbP0kkPP3Z9mBEJOQBZ/T/2Y/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 21:56:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RhSfnuW8LpXEjuqRWYbP0kkPP3Z9mBEJOQBZ/T/2Y/Y="
+        }
+      ]
+    },
+    {
+      "Route": "PhotoShare.styles.css",
+      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\g58tocj7nm-bm9w7y3qwr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001851851852"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "539"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RhSfnuW8LpXEjuqRWYbP0kkPP3Z9mBEJOQBZ/T/2Y/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 21:56:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TSgg5IPd5Q+Cdel0Tq9QMX1jhtI2IhlvOPF1DJhciv8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TSgg5IPd5Q+Cdel0Tq9QMX1jhtI2IhlvOPF1DJhciv8="
         }
       ]
     },
@@ -21818,11 +22024,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"g5XHJt3pqk3xkWVXtnbz7yKssVGcKtJVnUe4RPYC5LE=\""
+          "Value": "\"TSgg5IPd5Q+Cdel0Tq9QMX1jhtI2IhlvOPF1DJhciv8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 03:35:52 GMT"
+          "Value": "Mon, 27 Jan 2025 21:56:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21832,13 +22038,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-g5XHJt3pqk3xkWVXtnbz7yKssVGcKtJVnUe4RPYC5LE="
+          "Value": "sha256-TSgg5IPd5Q+Cdel0Tq9QMX1jhtI2IhlvOPF1DJhciv8="
         }
       ]
     },
     {
       "Route": "PhotoShare.styles.css.gz",
-      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\g58tocj7nm-le3twtknm4.gz",
+      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\g58tocj7nm-bm9w7y3qwr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21855,11 +22061,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JfzR46MBNa85mlFTX7LsT+PO7u5XPojZ5mqz5txpJ0A=\""
+          "Value": "\"RhSfnuW8LpXEjuqRWYbP0kkPP3Z9mBEJOQBZ/T/2Y/Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 03:35:52 GMT"
+          "Value": "Mon, 27 Jan 2025 21:56:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21877,7 +22083,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JfzR46MBNa85mlFTX7LsT+PO7u5XPojZ5mqz5txpJ0A="
+          "Value": "sha256-RhSfnuW8LpXEjuqRWYbP0kkPP3Z9mBEJOQBZ/T/2Y/Y="
         }
       ]
     }

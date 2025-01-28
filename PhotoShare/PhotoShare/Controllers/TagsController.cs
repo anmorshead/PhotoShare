@@ -18,15 +18,13 @@ namespace PhotoShare.Controllers
         {
             _context = context;
         }
-        //deleted the following actions:
 
+        // Deleted the following actions:
         // GET: Tags
         // GET: Tags/Details/5
         // GET: Tags/Edit/5
         // POST: Tags/Edit/5
         // POST: Tags/Delete/5
-
-
 
         // GET: Tags/Create
         public IActionResult Create(int? id)
@@ -53,13 +51,14 @@ namespace PhotoShare.Controllers
                 _context.Add(tag);
                 await _context.SaveChangesAsync();
 
-                // redirect to /Photos/Edit/5
+                // re-direct to /Photos/Edit/5
                 return RedirectToAction("Edit", "Photos", new { id = tag.PhotoId });
             }
-            ViewData["PhotoId"] = new SelectList(_context.Photo, "PhotoId", "PhotoId", tag.PhotoId);
+
+            ViewData["PhotoId"] = tag.PhotoId;
+
             return View(tag);
         }
-
 
         // GET: Tags/Delete/5
         public async Task<IActionResult> Delete(int? id)
@@ -85,14 +84,6 @@ namespace PhotoShare.Controllers
             await _context.SaveChangesAsync();
 
             return RedirectToAction("Edit", "Photos", new { id = photoId });
-        }
-
-
-
-
-        private bool TagExists(int id)
-        {
-            return _context.Tag.Any(e => e.TagId == id);
         }
     }
 }

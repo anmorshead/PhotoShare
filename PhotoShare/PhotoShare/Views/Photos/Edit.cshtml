@@ -46,12 +46,18 @@
                 <input type="submit" value="Save" class="btn btn-primary" />
             </div>
             <div class="mb-3">
-                <a asp-controller="Tags" asp-action="Add Tag" asp-route-id="@Model.PhotoId" class="pe-2 btn btn-secondary">Add new tag</a>
+                <!-- Corrected button for adding a tag -->
+                <a asp-controller="Tags" asp-action="Create" asp-route-id="@Model.PhotoId" class="pe-2 btn btn-secondary">Add new tag</a>
+
+                <!-- Displaying tags with a delete link -->
                 @if (Model.Tags != null)
                 {
                     foreach (var tag in Model.Tags)
                     {
-                        <span class="pe-2">@tag.Name <a asp-controller="Tags" asp-action="Delete" asp-route-id="@tag.TagId">x</a> </span>
+                        <span class="pe-2">
+                            @tag.Name
+                            <a asp-controller="Tags" asp-action="Delete" asp-route-id="@tag.TagId">x</a>
+                        </span>
                     }
                 }
             </div>
@@ -64,5 +70,8 @@
 </div>
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }
+

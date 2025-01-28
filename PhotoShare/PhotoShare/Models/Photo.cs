@@ -1,4 +1,5 @@
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace PhotoShare.Models
 {
@@ -10,7 +11,12 @@ namespace PhotoShare.Models
         public string Location {  get; set; } = string.Empty;
         public string Camera {  get; set; } = string.Empty;
         public string ImageFilename { get; set; } = string.Empty;
-        
+
+        // Property for file upload, not mapped in EF
+        [NotMapped]
+        [Display(Name = "Photograph")]
+        public IFormFile? ImageFile { get; set; } // nullable
+
 
         [Display(Name = "Visibility")]
         public bool IsVisible { get; set; } = false;

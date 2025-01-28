@@ -15,6 +15,7 @@ namespace PhotoShare.Controllers
     {
         private readonly PhotoShareContext _context;
 
+        // Constructor
         public PhotosController(PhotoShareContext context)
         {
             _context = context;
@@ -23,7 +24,9 @@ namespace PhotoShare.Controllers
         // GET: Photos
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Photo.ToListAsync());
+            var photos = await _context.Photo.ToListAsync();
+
+            return View(photos);
         }
 
         // GET: Photos/Details/5
@@ -34,8 +37,8 @@ namespace PhotoShare.Controllers
                 return NotFound();
             }
 
-            var photo = await _context.Photo
-                .FirstOrDefaultAsync(m => m.PhotoId == id);
+            var photo = await _context.Photo.FirstOrDefaultAsync(m => m.PhotoId == id);
+
             if (photo == null)
             {
                 return NotFound();
@@ -55,12 +58,27 @@ namespace PhotoShare.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("PhotoId,Description,Location,Camera,ImageFileName,ImageFilename,IsVisible,CreatedAt")] Photo photo)
+        public async Task<IActionResult> Create([Bind("PhotoId,Description,Location,Camera,ImageFile,IsVisible,CreatedAt")] Photo photo)
         {
+            // rename the uploaded file to a guid (unique filename). Set before photo saved in database.
+            photo.ImageFilename = Guid.NewGuid().ToString() + Path.GetExtension(photo.ImageFile?.FileName);
+
             if (ModelState.IsValid)
             {
+                // save the photo in database
                 _context.Add(photo);
                 await _context.SaveChangesAsync();
+
+                // save the uploaded file after the photo is saved in the database.
+                if (photo.ImageFile != null)
+                {
+                    string filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "photos", photo.ImageFilename);
+                    using (var fileStream = new FileStream(filePath, FileMode.Create))
+                    {
+                        await photo.ImageFile.CopyToAsync(fileStream);
+                    }
+                }
+
                 return RedirectToAction(nameof(Index));
             }
             return View(photo);
@@ -73,13 +91,15 @@ namespace PhotoShare.Controllers
             {
                 return NotFound();
             }
-            //include navigation property to get tags list
+
+            // Include the Tags list            
             var photo = await _context.Photo.Include(m => m.Tags).FirstOrDefaultAsync(m => m.PhotoId == id);
 
             if (photo == null)
             {
                 return NotFound();
             }
+
             return View(photo);
         }
 
@@ -88,7 +108,7 @@ namespace PhotoShare.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("PhotoId,Description,Location,Camera,ImageFileName,ImageFilename,IsVisible,CreatedAt")] Photo photo)
+        public async Task<IActionResult> Edit(int id, [Bind("PhotoId,Description,Location,Camera,ImageFilename,IsVisible,CreatedAt")] Photo photo)
         {
             if (id != photo.PhotoId)
             {

@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|c:\\users\\andre\\onedrive\\desktop\\webapp\\photoshare\\photoshare\\controllers\\photoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|solutionrelative:photoshare\\controllers\\photoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|c:\\users\\andre\\onedrive\\desktop\\webapp\\photoshare\\photoshare\\views\\photos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|solutionrelative:photoshare\\views\\photos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|c:\\users\\andre\\onedrive\\desktop\\webapp\\photoshare\\photoshare\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|solutionrelative:photoshare\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|c:\\users\\andre\\onedrive\\desktop\\webapp\\photoshare\\photoshare\\views\\photos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|solutionrelative:photoshare\\views\\photos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|c:\\users\\andre\\onedrive\\desktop\\webapp\\photoshare\\photoshare\\controllers\\photoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|solutionrelative:photoshare\\controllers\\photoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|c:\\users\\andre\\onedrive\\desktop\\webapp\\photoshare\\photoshare\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|solutionrelative:photoshare\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|c:\\users\\andre\\onedrive\\desktop\\webapp\\photoshare\\photoshare\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|solutionrelative:photoshare\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|c:\\users\\andre\\onedrive\\desktop\\webapp\\photoshare\\photoshare\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|solutionrelative:photoshare\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|c:\\users\\andre\\onedrive\\desktop\\webapp\\photoshare\\photoshare\\views\\photos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|solutionrelative:photoshare\\views\\photos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|c:\\users\\andre\\onedrive\\desktop\\webapp\\photoshare\\photoshare\\models\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|solutionrelative:photoshare\\models\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|c:\\users\\andre\\onedrive\\desktop\\webapp\\photoshare\\photoshare\\views\\photos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|solutionrelative:photoshare\\views\\photos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|c:\\users\\andre\\onedrive\\desktop\\webapp\\photoshare\\photoshare\\views\\photos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|solutionrelative:photoshare\\views\\photos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F32969E5-CEFD-4163-A7E4-BF77DAA33082}|PhotoShare\\PhotoShare.csproj|c:\\users\\andre\\onedrive\\desktop\\webapp\\photoshare\\photoshare\\views\\photos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -43,40 +59,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Views\\Photos\\Details.cshtml",
-              "RelativeDocumentMoniker": "PhotoShare\\Views\\Photos\\Details.cshtml",
-              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Views\\Photos\\Details.cshtml",
-              "RelativeToolTip": "PhotoShare\\Views\\Photos\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PhotoShare\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PhotoShare\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T19:34:33.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Views\\Photos\\Create.cshtml",
-              "RelativeDocumentMoniker": "PhotoShare\\Views\\Photos\\Create.cshtml",
-              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Views\\Photos\\Create.cshtml",
-              "RelativeToolTip": "PhotoShare\\Views\\Photos\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T23:14:22.525Z",
+              "WhenOpened": "2025-01-28T17:21:20.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Views\\Photos\\Edit.cshtml",
-              "RelativeDocumentMoniker": "PhotoShare\\Views\\Photos\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Views\\Photos\\Edit.cshtml",
-              "RelativeToolTip": "PhotoShare\\Views\\Photos\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAABsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T22:51:44.861Z",
+              "Title": "PhotosController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Controllers\\PhotosController.cs",
+              "RelativeDocumentMoniker": "PhotoShare\\Controllers\\PhotosController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Controllers\\PhotosController.cs",
+              "RelativeToolTip": "PhotoShare\\Controllers\\PhotosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T16:59:48.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PhotoShare\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PhotoShare\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T16:57:35.198Z",
               "EditorCaption": ""
             },
             {
@@ -87,27 +103,78 @@
               "RelativeDocumentMoniker": "PhotoShare\\Controllers\\TagsController.cs",
               "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Controllers\\TagsController.cs",
               "RelativeToolTip": "PhotoShare\\Controllers\\TagsController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAUwFYAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAowFgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T19:03:49.606Z",
+              "WhenOpened": "2025-01-28T16:53:05.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PhotosController.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Controllers\\PhotosController.cs",
-              "RelativeDocumentMoniker": "PhotoShare\\Controllers\\PhotosController.cs",
-              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Controllers\\PhotosController.cs",
-              "RelativeToolTip": "PhotoShare\\Controllers\\PhotosController.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAuwHIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T22:48:23.165Z",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Views\\Photos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PhotoShare\\Views\\Photos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Views\\Photos\\Edit.cshtml",
+              "RelativeToolTip": "PhotoShare\\Views\\Photos\\Edit.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAkwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T22:51:44.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PhotoShare\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PhotoShare\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T17:12:08.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Views\\Photos\\Index.cshtml",
+              "RelativeDocumentMoniker": "PhotoShare\\Views\\Photos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Views\\Photos\\Index.cshtml",
+              "RelativeToolTip": "PhotoShare\\Views\\Photos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T17:11:54.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Photo.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Models\\Photo.cs",
+              "RelativeDocumentMoniker": "PhotoShare\\Models\\Photo.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Models\\Photo.cs",
+              "RelativeToolTip": "PhotoShare\\Models\\Photo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:12:30.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Views\\Photos\\Create.cshtml",
+              "RelativeDocumentMoniker": "PhotoShare\\Views\\Photos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Views\\Photos\\Create.cshtml",
+              "RelativeToolTip": "PhotoShare\\Views\\Photos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T23:14:22.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Views\\Photos\\Delete.cshtml",
               "RelativeDocumentMoniker": "PhotoShare\\Views\\Photos\\Delete.cshtml",
@@ -115,12 +182,11 @@
               "RelativeToolTip": "PhotoShare\\Views\\Photos\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T19:34:26.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T19:34:26.813Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\Views\\Tags\\Create.cshtml",
               "RelativeDocumentMoniker": "PhotoShare\\Views\\Tags\\Create.cshtml",
@@ -128,8 +194,7 @@
               "RelativeToolTip": "PhotoShare\\Views\\Tags\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T19:26:30.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T19:26:30.321Z"
             }
           ]
         }
