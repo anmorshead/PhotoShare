@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "p57vtcMp21pF2yKUMlXeLlhh+F6cFNc5RmfhDysLcWI=",
+  "Hash": "eue3TuelItfi5y8SGshIkTOJQPV4F40/Br7kuNgi9u8=",
   "Source": "PhotoShare",
   "BasePath": "_content/PhotoShare",
   "Mode": "Default",
@@ -2745,6 +2745,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\photos\\73f69ad5-571e-419b-b5bf-a265efe4e5f9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\photos\\96ab5b46-6e1b-4b1b-810e-9326cf86619d.jpg",
+      "SourceId": "PhotoShare",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\",
+      "BasePath": "_content/PhotoShare",
+      "RelativePath": "photos/96ab5b46-6e1b-4b1b-810e-9326cf86619d#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2tepxjtoeq",
+      "Integrity": "yitVOyYjBbaUQYIy9vN4GBhFiTzhtUlJpXFGaM4PT2I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\photos\\96ab5b46-6e1b-4b1b-810e-9326cf86619d.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\photos\\9c7193e8-4876-49b0-9810-183730652ae9.jpg",
+      "SourceId": "PhotoShare",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\",
+      "BasePath": "_content/PhotoShare",
+      "RelativePath": "photos/9c7193e8-4876-49b0-9810-183730652ae9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "occ9a29pgb",
+      "Integrity": "OPdbaHqQJUi1S2ZRSeGf+pIQP7nMbt7AN+PRhjYIn0g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\photos\\9c7193e8-4876-49b0-9810-183730652ae9.jpg"
     },
     {
       "Identity": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\photos\\fa194ff5-ad64-4815-a013-4499e2378bda.jpg",
@@ -21406,6 +21448,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-KDmXCKY/9T2ZRrb/MOoV7puP/Bekqd+TYuq17N1A+ck="
+        }
+      ]
+    },
+    {
+      "Route": "photos/96ab5b46-6e1b-4b1b-810e-9326cf86619d.2tepxjtoeq.jpg",
+      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\photos\\96ab5b46-6e1b-4b1b-810e-9326cf86619d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1575757"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yitVOyYjBbaUQYIy9vN4GBhFiTzhtUlJpXFGaM4PT2I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:51:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2tepxjtoeq"
+        },
+        {
+          "Name": "label",
+          "Value": "photos/96ab5b46-6e1b-4b1b-810e-9326cf86619d.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yitVOyYjBbaUQYIy9vN4GBhFiTzhtUlJpXFGaM4PT2I="
+        }
+      ]
+    },
+    {
+      "Route": "photos/96ab5b46-6e1b-4b1b-810e-9326cf86619d.jpg",
+      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\photos\\96ab5b46-6e1b-4b1b-810e-9326cf86619d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1575757"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yitVOyYjBbaUQYIy9vN4GBhFiTzhtUlJpXFGaM4PT2I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:51:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yitVOyYjBbaUQYIy9vN4GBhFiTzhtUlJpXFGaM4PT2I="
+        }
+      ]
+    },
+    {
+      "Route": "photos/9c7193e8-4876-49b0-9810-183730652ae9.jpg",
+      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\photos\\9c7193e8-4876-49b0-9810-183730652ae9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "687073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OPdbaHqQJUi1S2ZRSeGf+pIQP7nMbt7AN+PRhjYIn0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:50:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OPdbaHqQJUi1S2ZRSeGf+pIQP7nMbt7AN+PRhjYIn0g="
+        }
+      ]
+    },
+    {
+      "Route": "photos/9c7193e8-4876-49b0-9810-183730652ae9.occ9a29pgb.jpg",
+      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\photos\\9c7193e8-4876-49b0-9810-183730652ae9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "687073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OPdbaHqQJUi1S2ZRSeGf+pIQP7nMbt7AN+PRhjYIn0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 12:50:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "occ9a29pgb"
+        },
+        {
+          "Name": "label",
+          "Value": "photos/9c7193e8-4876-49b0-9810-183730652ae9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OPdbaHqQJUi1S2ZRSeGf+pIQP7nMbt7AN+PRhjYIn0g="
         }
       ]
     },

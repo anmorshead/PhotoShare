@@ -124,4 +124,6 @@ wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
 wwwroot\photos\73f69ad5-571e-419b-b5bf-a265efe4e5f9.jpg
+wwwroot\photos\96ab5b46-6e1b-4b1b-810e-9326cf86619d.jpg
+wwwroot\photos\9c7193e8-4876-49b0-9810-183730652ae9.jpg
 wwwroot\photos\fa194ff5-ad64-4815-a013-4499e2378bda.jpg
