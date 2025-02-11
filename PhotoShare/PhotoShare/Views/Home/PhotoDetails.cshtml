@@ -3,7 +3,7 @@
     ViewData["Title"] = "Get Photo";
     string imageUrl = Url.Content("/photos/" + @Model.ImageFilename);
 
-    <div>
+    <div class="w-50 mx-auto mb-4">
         <a href="@Url.Action("PhotoDetails", "Home", new { id = @Model.PhotoId })">
             <img src="@imageUrl" class="img-fluid" alt="@Model.Description" />
         </a>
