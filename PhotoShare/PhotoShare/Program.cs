@@ -8,7 +8,7 @@ builder.Services.AddDbContext<PhotoShareContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("PhotoShareContext") ?? throw new InvalidOperationException("Connection string 'PhotoShareContext' not found.")));
 
 //changed RequireConfirmedAccount to false to allow for easier testing
-builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = false).AddEntityFrameworkStores<PhotoShareContext>();
+builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = false).AddEntityFrameworkStores<PhotoShareContext>();
 
 
 // Add services to the container.

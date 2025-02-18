@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhotoShare")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+065a05a307c29bd57661183c5c181264ad3c7f75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0881b8b500b2a724c4d9020abdc6c41d54687791")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhotoShare")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhotoShare")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

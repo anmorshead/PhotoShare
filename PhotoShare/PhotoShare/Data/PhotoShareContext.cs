@@ -9,7 +9,7 @@ using PhotoShare.Models;
 namespace PhotoShare.Data
 {
     //changed DbContext to IdentityDbContext
-    public class PhotoShareContext : IdentityDbContext
+    public class PhotoShareContext : IdentityDbContext<ApplicationUser>
     {
         public PhotoShareContext (DbContextOptions<PhotoShareContext> options)
             : base(options)
