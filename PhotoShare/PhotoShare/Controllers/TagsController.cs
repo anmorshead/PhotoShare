@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -10,13 +12,17 @@ using PhotoShare.Models;
 
 namespace PhotoShare.Controllers
 {
+    //only logged in users have access
+    [Authorize]
     public class TagsController : Controller
     {
+        private readonly UserManager<ApplicationUser> _userManager;
         private readonly PhotoShareContext _context;
 
-        public TagsController(PhotoShareContext context)
+        public TagsController(PhotoShareContext context, UserManager<ApplicationUser> userManager)
         {
             _context = context;
+            _userManager = userManager;
         }
 
         // Deleted the following actions:
@@ -27,9 +33,23 @@ namespace PhotoShare.Controllers
         // POST: Tags/Delete/5
 
         // GET: Tags/Create
-        public IActionResult Create(int? id)
+        public async Task<IActionResult> Create(int? id)
         {
+            // id= photo id
             if (id == null)
+            {
+                return NotFound();
+            }
+
+            //get the logged in user Id
+            var userId = _userManager.GetUserId(User);
+
+
+            var photo = await _context.Photo
+                .Where(m => m.ApplicationUserId == userId) //filter by user Id
+                .FirstOrDefaultAsync(m => m.PhotoId == id);
+
+            if (photo == null)
             {
                 return NotFound();
             }
@@ -46,6 +66,11 @@ namespace PhotoShare.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("TagId,Name,PhotoId")] Tag tag)
         {
+
+            //
+            // TO-DO: EMBED THE USER ID IN HTE FORM AND VALIDATE
+            //
+
             if (ModelState.IsValid)
             {
                 _context.Add(tag);

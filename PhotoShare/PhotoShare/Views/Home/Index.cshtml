@@ -10,16 +10,17 @@
     Powered by creators everywhere.
 </div>
 
+<div class="container-fluid">
+    <div class="masonry-grid">
+        @foreach (var item in Model)
+        {
+            string imageUrl = Url.Content("/photos/" + item.ImageFilename);
 
-<div class="masonry-grid">
-    @foreach (var item in Model)
-    {
-        string imageUrl = Url.Content("/photos/" + item.ImageFilename);
-
-        <div class="masonry-grid-item">
-            <a href="@Url.Action("PhotoDetails", "Home", new { id = item.PhotoId })">
-                <img src="@imageUrl" class="img-fluid" alt="@item.Description" />
-            </a>
-        </div>
-    }
+            <div class="masonry-grid-item">
+                <a href="@Url.Action("PhotoDetails", "Home", new { id = item.PhotoId })">
+                    <img src="@imageUrl" class="img-fluid" alt="@item.Description" />
+                </a>
+            </div>
+        }
+    </div>
 </div>

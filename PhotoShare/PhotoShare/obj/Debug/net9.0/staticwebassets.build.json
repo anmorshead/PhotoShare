@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Jm8zR4BIy6QdYNzrAKQqNdw7KdIJ7Pp5//Vlq/ZUSzc=",
+  "Hash": "7WmwE+j2I/091ylyFXyoNs94pFaDkXuk33ODaXDt/ig=",
   "Source": "PhotoShare",
   "BasePath": "_content/PhotoShare",
   "Mode": "Default",
@@ -2516,12 +2516,12 @@
       "OriginalItemSpec": "C:\\Users\\andre\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\icar7cjwje-9z7ztphugi.gz",
+      "Identity": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\icar7cjwje-lvktv98q8d.gz",
       "SourceId": "PhotoShare",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/PhotoShare",
-      "RelativePath": "css/site#[.{fingerprint=9z7ztphugi}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=lvktv98q8d}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2530,8 +2530,8 @@
       "RelatedAsset": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "s127pagtvw",
-      "Integrity": "4JjiaJB8tHOoZCFgSen+XrvXZRqXYZC9kYvCi99N/gQ=",
+      "Fingerprint": "9l3jdr5htk",
+      "Integrity": "7aGUb4nQJfVamtTfXOaWTwVGxK7hAM1oWJTH5uXVSQg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\css\\site.css"
@@ -4042,8 +4042,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9z7ztphugi",
-      "Integrity": "JeQt82411D1S62vqQ4w93b30nu3SqGwNimD1tH4lakU=",
+      "Fingerprint": "lvktv98q8d",
+      "Integrity": "D67phsFksOGJ5JuZr5W9raS8O09rV8B9YFS0gYBtBVI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -5437,167 +5437,6 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.9z7ztphugi.css",
-      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\icar7cjwje-9z7ztphugi.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002079002079"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "480"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4JjiaJB8tHOoZCFgSen+XrvXZRqXYZC9kYvCi99N/gQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 17:06:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"JeQt82411D1S62vqQ4w93b30nu3SqGwNimD1tH4lakU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9z7ztphugi"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-JeQt82411D1S62vqQ4w93b30nu3SqGwNimD1tH4lakU="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.9z7ztphugi.css",
-      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1197"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"JeQt82411D1S62vqQ4w93b30nu3SqGwNimD1tH4lakU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 17:06:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9z7ztphugi"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-JeQt82411D1S62vqQ4w93b30nu3SqGwNimD1tH4lakU="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.9z7ztphugi.css.gz",
-      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\icar7cjwje-9z7ztphugi.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "480"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4JjiaJB8tHOoZCFgSen+XrvXZRqXYZC9kYvCi99N/gQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 17:06:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9z7ztphugi"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-4JjiaJB8tHOoZCFgSen+XrvXZRqXYZC9kYvCi99N/gQ="
-        }
-      ]
-    },
-    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\andre\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.0\\staticwebassets\\css\\site.css",
       "Selectors": [],
@@ -5636,12 +5475,12 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\icar7cjwje-9z7ztphugi.gz",
+      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\icar7cjwje-lvktv98q8d.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002079002079"
+          "Quality": "0.001919385797"
         }
       ],
       "ResponseHeaders": [
@@ -5651,15 +5490,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "480"
+          "Value": "520"
         },
         {
           "Name": "ETag",
-          "Value": "\"4JjiaJB8tHOoZCFgSen+XrvXZRqXYZC9kYvCi99N/gQ=\""
+          "Value": "\"7aGUb4nQJfVamtTfXOaWTwVGxK7hAM1oWJTH5uXVSQg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 17:06:51 GMT"
+          "Value": "Mon, 24 Feb 2025 19:20:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5679,13 +5518,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"JeQt82411D1S62vqQ4w93b30nu3SqGwNimD1tH4lakU=\""
+          "Value": "W/\"D67phsFksOGJ5JuZr5W9raS8O09rV8B9YFS0gYBtBVI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JeQt82411D1S62vqQ4w93b30nu3SqGwNimD1tH4lakU="
+          "Value": "sha256-D67phsFksOGJ5JuZr5W9raS8O09rV8B9YFS0gYBtBVI="
         }
       ]
     },
@@ -5700,7 +5539,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1197"
+          "Value": "1276"
         },
         {
           "Name": "Content-Type",
@@ -5708,11 +5547,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JeQt82411D1S62vqQ4w93b30nu3SqGwNimD1tH4lakU=\""
+          "Value": "\"D67phsFksOGJ5JuZr5W9raS8O09rV8B9YFS0gYBtBVI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 17:06:51 GMT"
+          "Value": "Mon, 24 Feb 2025 19:20:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5722,13 +5561,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JeQt82411D1S62vqQ4w93b30nu3SqGwNimD1tH4lakU="
+          "Value": "sha256-D67phsFksOGJ5JuZr5W9raS8O09rV8B9YFS0gYBtBVI="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\icar7cjwje-9z7ztphugi.gz",
+      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\icar7cjwje-lvktv98q8d.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5737,7 +5576,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "480"
+          "Value": "520"
         },
         {
           "Name": "Content-Type",
@@ -5745,11 +5584,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4JjiaJB8tHOoZCFgSen+XrvXZRqXYZC9kYvCi99N/gQ=\""
+          "Value": "\"7aGUb4nQJfVamtTfXOaWTwVGxK7hAM1oWJTH5uXVSQg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 17:06:51 GMT"
+          "Value": "Mon, 24 Feb 2025 19:20:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5767,7 +5606,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4JjiaJB8tHOoZCFgSen+XrvXZRqXYZC9kYvCi99N/gQ="
+          "Value": "sha256-7aGUb4nQJfVamtTfXOaWTwVGxK7hAM1oWJTH5uXVSQg="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.lvktv98q8d.css",
+      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\icar7cjwje-lvktv98q8d.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001919385797"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "520"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7aGUb4nQJfVamtTfXOaWTwVGxK7hAM1oWJTH5uXVSQg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 19:20:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"D67phsFksOGJ5JuZr5W9raS8O09rV8B9YFS0gYBtBVI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lvktv98q8d"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D67phsFksOGJ5JuZr5W9raS8O09rV8B9YFS0gYBtBVI="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.lvktv98q8d.css",
+      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D67phsFksOGJ5JuZr5W9raS8O09rV8B9YFS0gYBtBVI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 19:20:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lvktv98q8d"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D67phsFksOGJ5JuZr5W9raS8O09rV8B9YFS0gYBtBVI="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.lvktv98q8d.css.gz",
+      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\obj\\Debug\\net9.0\\compressed\\icar7cjwje-lvktv98q8d.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "520"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7aGUb4nQJfVamtTfXOaWTwVGxK7hAM1oWJTH5uXVSQg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 19:20:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lvktv98q8d"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7aGUb4nQJfVamtTfXOaWTwVGxK7hAM1oWJTH5uXVSQg="
         }
       ]
     },

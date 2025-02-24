@@ -12,15 +12,16 @@
 /* Home page masonry styles
 -------------------------------------------------- */
 .masonry-grid {
-    column-count: 3;
-    column-gap: 1.5em;
+    column-count: 4; /* Adjust based on screen size */
+    column-gap: 16px;
 }
 
 .masonry-grid-item {
     display: inline-block;
-    margin: 0 0 2em;
-    width: 100%;
+    width: 100%; /* Makes sure images fill the column */
+    margin-bottom: 16px;
 }
+
 
     .masonry-grid-item img:hover {
         filter: brightness(0.65);

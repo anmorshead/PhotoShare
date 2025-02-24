@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using PhotoShare.Data;
 using PhotoShare.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace PhotoShare.Controllers
 {

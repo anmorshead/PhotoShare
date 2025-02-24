@@ -1,5 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using PhotoShare.Data;
 
 namespace PhotoShare.Models
 {
@@ -26,5 +27,10 @@ namespace PhotoShare.Models
 
         //Navigation Property
         public List<Tag>? Tags { get; set; } //nullable
+
+        // Foreign key (AspNetUsers table)
+        public string ApplicationUserId { get; set; } = string.Empty;
+        // Navigation property
+        public ApplicationUser? ApplicationUser { get; set; } // nullable!!!
     }
 }
