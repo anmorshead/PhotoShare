@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7WmwE+j2I/091ylyFXyoNs94pFaDkXuk33ODaXDt/ig=",
+  "Hash": "T2nOVSHJ+UAB1O8Y0uQnbOvMh573+DW6GqMZHqsVy1Q=",
   "Source": "PhotoShare",
   "BasePath": "_content/PhotoShare",
   "Mode": "Default",
@@ -5370,6 +5370,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\photos\\73f69ad5-571e-419b-b5bf-a265efe4e5f9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\photos\\94fb8e19-32b7-4d7e-8cff-8e2022b9f3bc.jpg",
+      "SourceId": "PhotoShare",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\",
+      "BasePath": "_content/PhotoShare",
+      "RelativePath": "photos/94fb8e19-32b7-4d7e-8cff-8e2022b9f3bc#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "805ytz5291",
+      "Integrity": "KDmXCKY/9T2ZRrb/MOoV7puP/Bekqd+TYuq17N1A+ck=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\photos\\94fb8e19-32b7-4d7e-8cff-8e2022b9f3bc.jpg"
     },
     {
       "Identity": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\photos\\96ab5b46-6e1b-4b1b-810e-9326cf86619d.jpg",
@@ -34925,6 +34946,88 @@
         {
           "Name": "Last-Modified",
           "Value": "Mon, 27 Jan 2025 21:59:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KDmXCKY/9T2ZRrb/MOoV7puP/Bekqd+TYuq17N1A+ck="
+        }
+      ]
+    },
+    {
+      "Route": "photos/94fb8e19-32b7-4d7e-8cff-8e2022b9f3bc.805ytz5291.jpg",
+      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\photos\\94fb8e19-32b7-4d7e-8cff-8e2022b9f3bc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "143621"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KDmXCKY/9T2ZRrb/MOoV7puP/Bekqd+TYuq17N1A+ck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 23:02:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "805ytz5291"
+        },
+        {
+          "Name": "label",
+          "Value": "photos/94fb8e19-32b7-4d7e-8cff-8e2022b9f3bc.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KDmXCKY/9T2ZRrb/MOoV7puP/Bekqd+TYuq17N1A+ck="
+        }
+      ]
+    },
+    {
+      "Route": "photos/94fb8e19-32b7-4d7e-8cff-8e2022b9f3bc.jpg",
+      "AssetFile": "C:\\Users\\andre\\OneDrive\\Desktop\\WebApp\\PhotoShare\\PhotoShare\\wwwroot\\photos\\94fb8e19-32b7-4d7e-8cff-8e2022b9f3bc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "143621"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KDmXCKY/9T2ZRrb/MOoV7puP/Bekqd+TYuq17N1A+ck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 23:02:48 GMT"
         },
         {
           "Name": "Cache-Control",

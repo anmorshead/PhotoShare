@@ -2,32 +2,47 @@
 @{
     ViewData["Title"] = "Get Photo";
     string imageUrl = Url.Content("/photos/" + @Model.ImageFilename);
+}
 
-    <div class="w-50 mx-auto mb-4">
-        <a href="@Url.Action("PhotoDetails", "Home", new { id = @Model.PhotoId })">
-            <img src="@imageUrl" class="img-fluid" alt="@Model.Description" />
-        </a>
+@if (Model.ApplicationUser != null)
+{
+    <div class="d-flex">
+        @if (!string.IsNullOrEmpty(Model.ApplicationUser.ImageFilename))
+        {
+            <div class="pe-2">
+                <img src="~/profile_img/@Model.ApplicationUser.ImageFilename" alt="@Model.ApplicationUser.Name" class="profile-thumbnail" />
+            </div>
+        }
+        <div>
+            @Model.ApplicationUser.Name
+            @if (Model.ApplicationUser.IsForHire == true)
+            {
+                <br />
+                <span class="text-primary" style="font-size:0.9em">Available for hire <i class="fa-solid fa-circle-check"></i></span>
+            }
+        </div>
     </div>
 }
-    <div class="text-secondary">
-        <div>
-            @Model.Description
-        </div>
-        <br />
-        <div>
-            <i class="fa-regular fa-calendar-days"></i> @Model.CreatedAt.ToString("MMM d, yyyy")
-        </div>
-        
-        <div>
-            <i class="fa-solid fa-location-dot"></i> @Model.Location
-        </div>
 
-        <div>
-            <i class="fa-solid fa-camera"></i> @Model.Camera
-        </div>
-        <br />
-        <div>
-
+<div class="w-50 mx-auto">
+    <img src="@imageUrl" class="img-fluid" alt="@Model.Description" />
+</div>
+<div class="text-secondary">
+    <div>
+        @Model.Description
+    </div>
+    <br />
+    <div>
+        <i class="fa-regular fa-calendar-days"></i> @Model.CreatedAt.ToString("MMM d, yyyy")
+    </div>
+    <div>
+        <i class="fa-solid fa-location-dot"></i> @Model.Location
+    </div>
+    <div>
+        <i class="fa-solid fa-camera"></i> @Model.Camera
+    </div>
+    <br />
+    <div>
         @if (Model.Tags != null && Model.Tags.Any())
         {
             <div>
@@ -40,12 +55,5 @@
                 }
             </div>
         }
-        else
-        {
-            <div>No Tags</div>
-        }
-
-        </div>
-
-   
+    </div>
 </div>

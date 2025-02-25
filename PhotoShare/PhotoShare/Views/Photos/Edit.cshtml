@@ -14,6 +14,7 @@
             <input type="hidden" asp-for="PhotoId" />
             <input type="hidden" asp-for="ImageFilename"/>
             <input type="hidden" asp-for="ApplicationUserId"/>
+            <input type="hidden" asp-for="CreatedAt" />
 
             <div class="mb-3">
                 <img src="/photos/@Model.ImageFilename" alt="@Model.Description" class="img-fluid"/>
@@ -44,11 +45,11 @@
                     <input class="form-check-input" asp-for="IsVisible" /> @Html.DisplayNameFor(model => model.IsVisible)
                 </label>
             </div>
-            <div class="mb-3">
-                <label asp-for="CreatedAt" class="control-label"></label>
-                <input asp-for="CreatedAt" class="form-control" readonly />
-                <span asp-validation-for="CreatedAt" class="text-danger"></span>
-            </div>
+            @* <div class="mb-3"> *@
+            @*     <label asp-for="CreatedAt" class="control-label"></label> *@
+            @*     <input asp-for="CreatedAt" class="form-control" readonly /> *@
+            @*     <span asp-validation-for="CreatedAt" class="text-danger"></span> *@
+            @* </div> *@
             <div class="mb-3">
                 <input type="submit" value="Save" class="btn btn-primary" />
             </div>

@@ -3,45 +3,40 @@
     height: auto;
 }
 
-.profile-pic {
-    width: 150px;
+.profile-thumbnail {
+    width: 55px;
     height: auto;
     border-radius: 50%;
 }
-
 /* Home page masonry styles
 -------------------------------------------------- */
 .masonry-grid {
-    column-count: 4; /* Adjust based on screen size */
-    column-gap: 16px;
+    column-count: 3;
+    column-gap: 1.5em;
 }
 
 .masonry-grid-item {
     display: inline-block;
-    width: 100%; /* Makes sure images fill the column */
-    margin-bottom: 16px;
+    margin: 0 0 2em;
+    width: 100%;
 }
-
 
     .masonry-grid-item img:hover {
         filter: brightness(0.65);
         cursor: pointer;
     }
-
 /* collapse grid to 2 columns */
 @media (max-width: 992px) {
     .masonry-grid {
         column-count: 2;
     }
 }
-
 /* collapse grid to 1 column */
 @media (max-width: 768px) {
     .masonry-grid {
         column-count: 1;
     }
 }
-
 /* Sticky footer styles
 -------------------------------------------------- */
 html {

@@ -68,7 +68,7 @@ namespace PhotoShare.Controllers
         {
 
             //
-            // TO-DO: EMBED THE USER ID IN HTE FORM AND VALIDATE
+            // TO-DO: VERIFY THE USER ID FOR PHOTO MATCHES LOGGED IN USER
             //
 
             if (ModelState.IsValid)
@@ -88,6 +88,11 @@ namespace PhotoShare.Controllers
         // GET: Tags/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
+            //
+            // TO-DO: VERIFY THE USER ID FOR PHOTO MATCHES LOGGED IN USER
+            //
+
+
             // id is the tag id
             if (id == null)
             {

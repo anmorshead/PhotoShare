@@ -19,6 +19,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.WebUtilities;
 using Microsoft.Extensions.Logging;
 using PhotoShare.Data;
+using PhotoShare.Models;
 
 namespace PhotoShare.Areas.Identity.Pages.Account
 {
@@ -84,7 +85,12 @@ namespace PhotoShare.Areas.Identity.Pages.Account
 
             public string Location { get; set; }
 
+            [Display(Name = "Available for Hire")]
             public bool IsForHire { get; set; }
+
+            [Display(Name = "Profile Picture")]
+            public IFormFile ImageFile { get; set; }    
+
 
             /////////////////////////////////////////
             /// END: ApplicationUser custom fields
@@ -141,6 +147,24 @@ namespace PhotoShare.Areas.Identity.Pages.Account
                 user.Bio = Input.Bio;
                 user.Location = Input.Location;
                 user.IsForHire = Input.IsForHire;
+
+                //save the uploaded profile pic in db and folder
+                if (Input.ImageFile != null)
+                {
+                    string imageFilename = Guid.NewGuid().ToString() + Path.GetExtension(Input.ImageFile?.FileName);
+
+                    string filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "profile_img", imageFilename);
+
+                    using (var fileStream = new FileStream(filePath, FileMode.Create))
+
+                    {
+
+                        await Input.ImageFile.CopyToAsync(fileStream);
+
+                    }
+
+                    user.ImageFilename = imageFilename; //change the filename
+                }
                 /////////////////////////////////////////
                 /// END: ApplicationUser custom fields
                 ///////////////////////////////////////// 
